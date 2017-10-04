@@ -30,7 +30,7 @@ Clone Git repository and its submodules recursively.
 
 Generate the header `config.h` (autotools check the availability of libraries and features within your environment).
 
-    ./boostrap.sh
+    ./bootstrap.sh
     ./configure
 
 And use CMake.
